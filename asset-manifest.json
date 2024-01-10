@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/discountcheckapp/static/css/main.df604e5f.css",
+    "main.js": "/discountcheckapp/static/js/main.11093c28.js",
+    "index.html": "/discountcheckapp/index.html",
+    "main.df604e5f.css.map": "/discountcheckapp/static/css/main.df604e5f.css.map",
+    "main.11093c28.js.map": "/discountcheckapp/static/js/main.11093c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df604e5f.css",
+    "static/js/main.11093c28.js"
+  ]
+}
